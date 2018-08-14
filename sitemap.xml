@@ -1,8 +1,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://axis-aus.xn--com/seq-/index.html</loc>
-	</url>
-	<url>
 		<loc>http://axis-aus.xn--com/seq-/aboutus.html</loc>
 	</url>
 	<url>
@@ -25,5 +22,11 @@
 	</url>
 	<url>
 		<loc>http://axis-aus.xn--com/seq-/balance.html</loc>
+	</url>
+	<url>
+		<loc>http://axis-aus.xn--com/seq-/old.html</loc>
+	</url>
+	<url>
+		<loc>http://axis-aus.xn--com/seq-/index.html</loc>
 	</url>
 </urlset>
